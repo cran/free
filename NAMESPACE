@@ -1,0 +1,3 @@
+useDynLib(free, .registration=TRUE)
+importFrom(Rcpp, evalCpp)
+exportPattern("free_lasso")

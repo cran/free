@@ -1,0 +1,12 @@
+c104f8e18c800073b06d98407a24d6af *DESCRIPTION
+055da3e99649b9bef1b5eb16de64f21e *NAMESPACE
+be2ed289769512df6479c9d7283591a9 *R/RcppExports.R
+939ff077dccaba5824d3075299254073 *R/main.R
+e9a9104edd4e28b292058041b233fe5d *man/free-package.Rd
+a0cecbe21871cf50b6ea05205da75e86 *man/free_lasso.Rd
+4ff67c654e84499f14d634357b33991c *src/Makevars
+4ff67c654e84499f14d634357b33991c *src/Makevars.win
+7be145b951bd88b33b49d7b790735292 *src/RcppExports.cpp
+0659eef779627a8b40ff447d01f742d7 *src/main.cpp
+a80ca9944f8837c5f336f1d8ec3700fb *tests/testthat.R
+8ab95132387919271e5db7cfcb9c8043 *tests/testthat/test.R
