@@ -1,11 +1,13 @@
 Package: free
 Type: Package
-Title: Regularized Estimating Equations
-Version: 1.0
-Date: 2021-12-21
+Title: Flexible Regularized Estimating Equations
+Version: 1.0.1
+Date: 2022-02-23
 Authors@R: c(person("Yi", "Lian", role = c("aut", "cre"), email = "yi.lian@mail.mcgill.ca"),
              person("Yi", "Yang", role = c("aut", "cph")),
-             person("Sahir", "Bhatnagar", role = c("aut")),
+             person("Yuwen", "Gu", role = c("aut")),
+             person("Jun", "Fan", role = c("aut")),
+             person("Yue", "Zhao", role = c("aut")),
              person("Robert W.", "Platt", role = c("aut")))
 Description: Unified regularized estimating equation solver. Currently the package includes one solver with the l1 penalty only. More solvers and penalties are under development. Reference: Yi Yang, Yuwen Gu, Yue Zhao, Jun Fan (2021) <arXiv:2110.11074>.
 License: GPL-3
@@ -16,11 +18,13 @@ RoxygenNote: 7.1.2
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: yes
-Packaged: 2022-01-07 00:40:00 UTC; YLIAN
+Packaged: 2022-03-02 01:49:46 UTC; YLIAN
 Author: Yi Lian [aut, cre],
   Yi Yang [aut, cph],
-  Sahir Bhatnagar [aut],
+  Yuwen Gu [aut],
+  Jun Fan [aut],
+  Yue Zhao [aut],
   Robert W. Platt [aut]
 Maintainer: Yi Lian <yi.lian@mail.mcgill.ca>
 Repository: CRAN
-Date/Publication: 2022-01-10 08:42:46 UTC
+Date/Publication: 2022-03-02 09:10:06 UTC

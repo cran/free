@@ -3,7 +3,7 @@
 \docType{package}
 \name{free-package}
 \alias{free-package}
-\title{Regularized Estimating Equations}
+\title{Flexible Regularized Estimating Equations}
 \description{
 Unified regularized estimating equation solver. Currently include one solver with the l1 penalty only. More solvers and penalties are under development.
 }

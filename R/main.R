@@ -1,4 +1,4 @@
-#' Regularized Estimating Equations
+#' Flexible Regularized Estimating Equations
 #'
 #' Unified regularized estimating equation solver. Currently include one solver with the l1 penalty only. More solvers and penalties are under development.
 #' 
